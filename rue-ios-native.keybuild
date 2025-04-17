@@ -1,0 +1,3345 @@
+[
+  {
+    "title": "Русиньскый",
+    "id": "B51A562A-4F04-426D-A422-28B3B4EF84E1",
+    "heightMultiplier": 1,
+    "root": {
+      "stack": {
+        "items": [
+          {
+            "visual": {
+              "stack": {
+                "items": [
+                  {
+                    "visual": {
+                      "stack": {
+                        "direction": "horizontal",
+                        "items": [
+                          {
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "Й"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "й"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false,
+                                "keycap": ""
+                              }
+                            },
+                            "id": "0F5D1DB5-6060-4FC2-9044-DD9946E6CA87",
+                            "weight": 1
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "keyRepeat": false,
+                                "keycap": "",
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "ц"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "Ц"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "id": "9E1E479A-940D-4ED3-979E-69F8E4C60550",
+                            "weight": 1
+                          },
+                          {
+                            "id": "82C14F00-84DB-4D84-8579-F5564939AD18",
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "3": {
+                                    "type": {
+                                      "signal": "Ӱ"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "У"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "у"
+                                    }
+                                  },
+                                  "2": {
+                                    "type": {
+                                      "signal": "ӱ"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false,
+                                "keycap": ""
+                              }
+                            },
+                            "weight": 1
+                          },
+                          {
+                            "id": "E43D5446-2F0F-415B-8034-59C58FF17A47",
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keyRepeat": false,
+                                "keycap": "",
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "к"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "К"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "id": "E5BEF11E-7677-41A0-B203-A6235527331E",
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "3": {
+                                    "type": {
+                                      "signal": "Ё"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "Е"
+                                    }
+                                  },
+                                  "2": {
+                                    "type": {
+                                      "signal": "ё"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "е"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false,
+                                "keycap": ""
+                              }
+                            },
+                            "weight": 1
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "keyRepeat": false,
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "н"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "Н"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "id": "65A8ECAF-5241-4F2A-9910-B1F1D30DC416",
+                            "weight": 1
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "keyRepeat": false,
+                                "keycap": "",
+                                "actions": {
+                                  "2": {
+                                    "type": {
+                                      "signal": "ґ"
+                                    }
+                                  },
+                                  "3": {
+                                    "type": {
+                                      "signal": "Ґ"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "Г"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "г"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "id": "37450190-57B8-4F38-BD75-808C5AF941BD",
+                            "weight": 1
+                          },
+                          {
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "keyRepeat": false,
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "ш"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "Ш"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "id": "43951276-EFC5-417C-8BB9-93E9801C9EC0"
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "Щ"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "щ"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            },
+                            "weight": 1,
+                            "id": "F1DE21E2-0CF6-43F5-81ED-A4717116D6C7"
+                          },
+                          {
+                            "weight": 1,
+                            "id": "7ADC56D7-486B-488D-A3EF-88153E381986",
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "З"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "з"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false,
+                                "keycap": ""
+                              }
+                            }
+                          },
+                          {
+                            "weight": 1,
+                            "id": "8813F1BE-A3EA-4E5C-9928-3F23B4ECF29C",
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "Х"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "х"
+                                    }
+                                  }
+                                },
+                                "keycap": "",
+                                "keyRepeat": false
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "weight": 10,
+                    "id": "DF68EA6E-CD70-494A-8848-16650E705D46"
+                  }
+                ],
+                "direction": "horizontal"
+              }
+            },
+            "id": "A1FD28B8-21AF-4C1A-AC6B-A6126343BD3F",
+            "weight": 1
+          },
+          {
+            "id": "F1FD4637-F496-4B86-AFEE-51131D10C527",
+            "visual": {
+              "stack": {
+                "items": [
+                  {
+                    "id": "FDBD7430-195A-429A-A8B8-B7294D1AB432",
+                    "weight": 0.5,
+                    "visual": {
+                      "padding": {}
+                    }
+                  },
+                  {
+                    "visual": {
+                      "stack": {
+                        "items": [
+                          {
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "keyRepeat": false,
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "ф"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "Ф"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "id": "B4D8FB5C-4501-4A5E-B8ED-416F90629372"
+                          },
+                          {
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "І"
+                                    }
+                                  },
+                                  "2": {
+                                    "type": {
+                                      "signal": "ї"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "і"
+                                    }
+                                  },
+                                  "3": {
+                                    "type": {
+                                      "signal": "Ї"
+                                    }
+                                  }
+                                },
+                                "keycap": "",
+                                "keyRepeat": false
+                              }
+                            },
+                            "id": "903610C8-B3ED-4205-82B5-9EB9B9CB0A3B"
+                          },
+                          {
+                            "id": "3463654C-93B0-4237-8CE1-2619B2897A01",
+                            "visual": {
+                              "key": {
+                                "keyRepeat": false,
+                                "keycap": "",
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "В"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "в"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "weight": 1
+                          },
+                          {
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keyRepeat": false,
+                                "keycap": "",
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "а"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "А"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "id": "27FFAAB6-2F3E-4131-A6E7-7DBFEB830133"
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "keyRepeat": false,
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "п"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "П"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "weight": 1,
+                            "id": "302A883C-EA48-46F2-B83F-CE0C060DF76A"
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "Р"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "р"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            },
+                            "id": "19BA9DD6-7689-4D9E-BA77-0D22D95DE20A",
+                            "weight": 1
+                          },
+                          {
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "keyRepeat": false,
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "о"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "О"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "id": "79310BD8-E55B-4AF3-BF89-34CF29DDB258"
+                          },
+                          {
+                            "id": "E442CE0C-9658-4324-B99E-1E1D012A3D36",
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "Л"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "л"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            }
+                          },
+                          {
+                            "id": "6BCDCD3D-7DD2-4340-B097-31F18B8A6532",
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "Д"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "д"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            }
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "Ж"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "ж"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            },
+                            "id": "D8A2DD1D-0AD3-46A3-927A-D8688357CBF3",
+                            "weight": 1
+                          },
+                          {
+                            "id": "886FDF65-2EA3-4A2A-8A74-60FC887CB812",
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keyRepeat": false,
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "є"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "Є"
+                                    }
+                                  },
+                                  "2": {
+                                    "type": {
+                                      "signal": "э"
+                                    }
+                                  },
+                                  "3": {
+                                    "type": {
+                                      "signal": "Э"
+                                    }
+                                  }
+                                },
+                                "keycap": ""
+                              }
+                            }
+                          }
+                        ],
+                        "direction": "horizontal"
+                      }
+                    },
+                    "weight": 91,
+                    "id": "ACFF3924-3443-45E6-9848-B95079833DD2"
+                  },
+                  {
+                    "visual": {
+                      "padding": {}
+                    },
+                    "weight": 0.5,
+                    "id": "F9844488-EDEF-4A34-87D1-309A8A761906"
+                  }
+                ],
+                "direction": "horizontal"
+              }
+            },
+            "weight": 1
+          },
+          {
+            "id": "09835D54-569A-4B84-8091-616FC513D595",
+            "visual": {
+              "stack": {
+                "direction": "horizontal",
+                "items": [
+                  {
+                    "weight": 1,
+                    "visual": {
+                      "shift": {}
+                    },
+                    "id": "B5D4B18D-4BF4-42A7-A3C2-6BA923652A9D"
+                  },
+                  {
+                    "visual": {
+                      "stack": {
+                        "items": [
+                          {
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "3": {
+                                    "type": {
+                                      "signal": "Ѣ"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "я"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "Я"
+                                    }
+                                  },
+                                  "2": {
+                                    "type": {
+                                      "signal": "ѣ"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            },
+                            "id": "13B46A5A-4F33-4E82-991A-687A54DB429E",
+                            "weight": 1
+                          },
+                          {
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "Ч"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "ч"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            },
+                            "id": "77CB7EFC-1582-4A9E-A095-A398CCC9B0F7"
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "С"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "с"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            },
+                            "weight": 1,
+                            "id": "20BD33C1-986D-40FB-93FA-9A1979B32F7B"
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "keyRepeat": false,
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "М"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "м"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "id": "5067CB1C-3960-4421-9C65-1C4EB72FE403",
+                            "weight": 1
+                          },
+                          {
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "И"
+                                    }
+                                  },
+                                  "2": {
+                                    "type": {
+                                      "signal": "ы"
+                                    }
+                                  },
+                                  "3": {
+                                    "type": {
+                                      "signal": "Ы"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "и"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            },
+                            "id": "FC2B4C81-FE00-4D0F-B0A0-BB64773CF4E7"
+                          },
+                          {
+                            "weight": 1,
+                            "id": "5597D88D-0781-4678-849C-6845C6989BA9",
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "Т"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "т"
+                                    }
+                                  }
+                                },
+                                "keycap": "",
+                                "keyRepeat": false
+                              }
+                            }
+                          },
+                          {
+                            "id": "5816B76D-DC91-4AA5-BCEC-4AB9079EF320",
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "ь"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "Ь"
+                                    }
+                                  },
+                                  "3": {
+                                    "type": {
+                                      "signal": "Ъ"
+                                    }
+                                  },
+                                  "2": {
+                                    "type": {
+                                      "signal": "ъ"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            }
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "keyRepeat": false,
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "Б"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "б"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "id": "67A493F2-9004-4470-8024-77F0619DFB02",
+                            "weight": 1
+                          },
+                          {
+                            "id": "B17D9D46-FE06-46AF-A7EF-2AC2CCFCF0D4",
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "ю"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "Ю"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            },
+                            "weight": 1
+                          }
+                        ],
+                        "direction": "horizontal"
+                      }
+                    },
+                    "id": "6D2FB5D5-EA0D-494F-84A8-7CC067439707",
+                    "weight": 9
+                  },
+                  {
+                    "visual": {
+                      "key": {
+                        "keyRepeat": true,
+                        "actions": {
+                          "0": {
+                            "delete": {
+                              "offset": -1
+                            }
+                          }
+                        },
+                        "keycap": ""
+                      }
+                    },
+                    "id": "EA10CA57-4F72-43C1-91AC-6B5F6ED62246",
+                    "weight": 1
+                  }
+                ]
+              }
+            },
+            "weight": 1
+          },
+          {
+            "visual": {
+              "stack": {
+                "direction": "horizontal",
+                "items": [
+                  {
+                    "weight": 1.3,
+                    "visual": {
+                      "key": {
+                        "keycap": "123",
+                        "keyRepeat": false,
+                        "actions": {
+                          "0": {
+                            "paneLink": {
+                              "targetTitle": "Symbols"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "id": "9A54FB2E-E42D-4BDD-8535-CF36B96DA2C8"
+                  },
+                  {
+                    "visual": {
+                      "key": {
+                        "keyRepeat": false,
+                        "keycap": "",
+                        "actions": {
+                          "1": {
+                            "type": {
+                              "signal": ","
+                            }
+                          },
+                          "3": {
+                            "type": {
+                              "signal": "!"
+                            }
+                          },
+                          "2": {
+                            "type": {
+                              "signal": "?"
+                            }
+                          },
+                          "0": {
+                            "type": {
+                              "signal": "."
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "weight": 1.3,
+                    "id": "4774B73C-A0C3-49F9-AED8-DA114302FCF8"
+                  },
+                  {
+                    "weight": 5.7,
+                    "visual": {
+                      "key": {
+                        "keycap": "",
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": " "
+                            }
+                          },
+                          "2": {
+                            "panCursor": {}
+                          }
+                        },
+                        "keyRepeat": false
+                      }
+                    },
+                    "id": "BB5DEE09-5E86-4C3A-B2F3-A4B69D88484E"
+                  },
+                  {
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "\n"
+                            }
+                          }
+                        },
+                        "keyRepeat": false,
+                        "keycap": ""
+                      }
+                    },
+                    "id": "AF018DF1-3E34-4DF6-B94C-002BC5CB20F2",
+                    "weight": 2.7
+                  }
+                ]
+              }
+            },
+            "weight": 1,
+            "id": "F4A5F856-0E73-4E44-9F65-8E567300395F"
+          }
+        ],
+        "direction": "vertical"
+      }
+    }
+  },
+  {
+    "root": {
+      "stack": {
+        "items": [
+          {
+            "weight": 1,
+            "visual": {
+              "stack": {
+                "direction": "horizontal",
+                "items": [
+                  {
+                    "visual": {
+                      "stack": {
+                        "items": [
+                          {
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "1"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "["
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            },
+                            "id": "1557DC72-7187-488A-98FB-43603B91A651",
+                            "weight": 1
+                          },
+                          {
+                            "weight": 1,
+                            "id": "83C4EA2F-44B4-4C7C-9D01-10B11F35F3B2",
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "]"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "2"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false,
+                                "keycap": ""
+                              }
+                            }
+                          },
+                          {
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keyRepeat": false,
+                                "keycap": "",
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "3"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "{"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "id": "AE19296F-33D7-4087-B0C4-8A82210C7A07"
+                          },
+                          {
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "}"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "4"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false,
+                                "keycap": ""
+                              }
+                            },
+                            "id": "9E0530B8-2F6B-4674-96F5-120FCA3B70D9"
+                          },
+                          {
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "3": {
+                                    "type": {
+                                      "signal": "№"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "#"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "5"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false,
+                                "keycap": ""
+                              }
+                            },
+                            "id": "95B231F6-9EDB-4FAA-937E-C743E103BE79"
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "6"
+                                    }
+                                  },
+                                  "3": {
+                                    "type": {
+                                      "signal": "‰"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "%"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            },
+                            "id": "E4C6468E-8118-4807-9CAE-A79B8D437E49",
+                            "weight": 1
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "7"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "^"
+                                    }
+                                  }
+                                },
+                                "keycap": "",
+                                "keyRepeat": false
+                              }
+                            },
+                            "weight": 1,
+                            "id": "63E93467-C2BE-43AF-8491-0C7FE208B40E"
+                          },
+                          {
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keyRepeat": false,
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "*"
+                                    }
+                                  },
+                                  "3": {
+                                    "type": {
+                                      "signal": "×"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "8"
+                                    }
+                                  }
+                                },
+                                "keycap": ""
+                              }
+                            },
+                            "id": "FF86E348-BBBF-4E52-A90F-07409E37EE4F"
+                          },
+                          {
+                            "id": "B568846E-3D5C-4B4E-BA80-85C334A13266",
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "+"
+                                    }
+                                  },
+                                  "3": {
+                                    "type": {
+                                      "signal": "±"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "9"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false,
+                                "keycap": ""
+                              }
+                            }
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "keyRepeat": false,
+                                "keycap": "",
+                                "actions": {
+                                  "3": {
+                                    "type": {
+                                      "signal": "≠"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "="
+                                    }
+                                  },
+                                  "2": {
+                                    "type": {
+                                      "signal": "°"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "0"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "id": "DF33E4CB-53E9-445F-B23E-AC32207DBB2A",
+                            "weight": 1
+                          }
+                        ],
+                        "direction": "horizontal"
+                      }
+                    },
+                    "id": "4DFD1C04-49CF-4A9E-9C89-C9C63FB915CD",
+                    "weight": 10
+                  }
+                ]
+              }
+            },
+            "id": "70189052-18A0-4CC6-AE76-AD0AEAE96F83"
+          },
+          {
+            "weight": 1,
+            "visual": {
+              "stack": {
+                "direction": "horizontal",
+                "items": [
+                  {
+                    "weight": 9,
+                    "visual": {
+                      "stack": {
+                        "direction": "horizontal",
+                        "items": [
+                          {
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "2": {
+                                    "paneLink": {
+                                      "targetTitle": "Additional Punctuation"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "_"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "-"
+                                    }
+                                  }
+                                },
+                                "keycap": "",
+                                "keyRepeat": false
+                              }
+                            },
+                            "weight": 1,
+                            "id": "B7E98879-8BBA-4FB1-8222-D1E12F5D0868"
+                          },
+                          {
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "\/"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "\\"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            },
+                            "id": "898E64E7-8E3F-46A2-97AB-ACCA0B022F7F"
+                          },
+                          {
+                            "id": "D79B2DEA-CC80-454C-AD09-964F1D5D07B0",
+                            "visual": {
+                              "key": {
+                                "keyRepeat": false,
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "|"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": ":"
+                                    }
+                                  }
+                                },
+                                "keycap": ""
+                              }
+                            },
+                            "weight": 1
+                          },
+                          {
+                            "id": "A77402E1-70A2-4451-9F92-567BA25948F2",
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": ";"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "~"
+                                    }
+                                  },
+                                  "3": {
+                                    "type": {
+                                      "signal": "≈"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            },
+                            "weight": 1
+                          },
+                          {
+                            "weight": 1,
+                            "id": "F052CFDB-8A3E-4F32-886C-798E7C9C4494",
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "("
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "<"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            }
+                          },
+                          {
+                            "weight": 1,
+                            "id": "754DF6A6-A59F-4AB1-B935-6CC7DB801B59",
+                            "visual": {
+                              "key": {
+                                "keyRepeat": false,
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": ">"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": ")"
+                                    }
+                                  }
+                                },
+                                "keycap": ""
+                              }
+                            }
+                          },
+                          {
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "€"
+                                    }
+                                  },
+                                  "3": {
+                                    "type": {
+                                      "signal": "£"
+                                    }
+                                  },
+                                  "2": {
+                                    "type": {
+                                      "signal": "¢"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "$"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false,
+                                "keycap": ""
+                              }
+                            },
+                            "id": "553AB833-0091-4619-B788-A15B92AB3D88"
+                          },
+                          {
+                            "id": "E5DE3C18-D9C3-41A6-A804-AF03CCFEB394",
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keyRepeat": false,
+                                "keycap": "",
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "₴"
+                                    }
+                                  },
+                                  "2": {
+                                    "type": {
+                                      "signal": "§"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "&"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": "¥"
+                                    }
+                                  },
+                                  "2": {
+                                    "type": {
+                                      "signal": "„"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "@"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false,
+                                "keycap": ""
+                              }
+                            },
+                            "weight": 1,
+                            "id": "213D26E2-D98F-492E-827B-717F6DB4BC58"
+                          },
+                          {
+                            "id": "CF714906-F361-46B2-9B42-1E57F8EC3E24",
+                            "visual": {
+                              "key": {
+                                "keyRepeat": false,
+                                "keycap": "",
+                                "actions": {
+                                  "2": {
+                                    "paneLink": {
+                                      "targetTitle": "Additional Punctuation"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "•"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "\""
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "weight": 1
+                          }
+                        ]
+                      }
+                    },
+                    "id": "516706B9-7595-4486-A433-E5E00D516564"
+                  }
+                ]
+              }
+            },
+            "id": "7A46603C-64B0-4FF2-B7EB-AB2C91F5F37F"
+          },
+          {
+            "weight": 1,
+            "id": "B4C93188-AE1D-4B85-BBBB-A49759ABC25D",
+            "visual": {
+              "stack": {
+                "direction": "horizontal",
+                "items": [
+                  {
+                    "visual": {
+                      "capsLock": {}
+                    },
+                    "weight": 1,
+                    "id": "858A4A7A-DFF6-4B75-98B4-43B12F798B19"
+                  },
+                  {
+                    "visual": {
+                      "padding": {}
+                    },
+                    "id": "01F91E7C-8F8F-4BDA-A4F5-A3592A5865CA",
+                    "weight": 0.4
+                  },
+                  {
+                    "weight": 5,
+                    "visual": {
+                      "stack": {
+                        "items": [
+                          {
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "."
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "."
+                                    }
+                                  },
+                                  "3": {
+                                    "type": {
+                                      "signal": "…"
+                                    }
+                                  },
+                                  "2": {
+                                    "type": {
+                                      "signal": "…"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false,
+                                "keycap": ""
+                              }
+                            },
+                            "weight": 1,
+                            "id": "5DB51444-9D84-4B1D-9176-4992D665AF11"
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "1": {
+                                    "type": {
+                                      "signal": ","
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": ","
+                                    }
+                                  }
+                                },
+                                "keycap": "",
+                                "keyRepeat": false
+                              }
+                            },
+                            "weight": 1,
+                            "id": "8D592D5D-D31D-4A36-8969-F972130C8148"
+                          },
+                          {
+                            "weight": 1,
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "?"
+                                    }
+                                  },
+                                  "2": {
+                                    "type": {
+                                      "signal": "¿"
+                                    }
+                                  },
+                                  "3": {
+                                    "type": {
+                                      "signal": "¿"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "?"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            },
+                            "id": "198A669F-B006-465A-BF39-86315E9CF037"
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "2": {
+                                    "type": {
+                                      "signal": "¡"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "!"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "!"
+                                    }
+                                  },
+                                  "3": {
+                                    "type": {
+                                      "signal": "¡"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false,
+                                "keycap": ""
+                              }
+                            },
+                            "weight": 1,
+                            "id": "A6178D86-590C-4590-820C-FF9676200470"
+                          },
+                          {
+                            "weight": 1,
+                            "id": "95393FF1-44C7-40E2-9382-68FD1F61F93F",
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "keyRepeat": false,
+                                "actions": {
+                                  "2": {
+                                    "paneLink": {
+                                      "targetTitle": "Additional Punctuation"
+                                    }
+                                  },
+                                  "1": {
+                                    "type": {
+                                      "signal": "'"
+                                    }
+                                  },
+                                  "3": {
+                                    "paneLink": {
+                                      "targetTitle": "Additional Punctuation"
+                                    }
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": "'"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        ],
+                        "direction": "horizontal"
+                      }
+                    },
+                    "id": "F16678BB-ED9E-4C45-9016-883181C6DF8B"
+                  },
+                  {
+                    "visual": {
+                      "padding": {}
+                    },
+                    "id": "69AF751A-45DC-46AE-AEBB-797C5458E410",
+                    "weight": 0.4
+                  },
+                  {
+                    "visual": {
+                      "key": {
+                        "keyRepeat": true,
+                        "keycap": "",
+                        "actions": {
+                          "0": {
+                            "delete": {
+                              "offset": -1
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "weight": 1,
+                    "id": "D78BD8A0-887E-4CE3-A8D9-3AE287A89861"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "visual": {
+              "stack": {
+                "direction": "horizontal",
+                "items": [
+                  {
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "0": {
+                            "paneLink": {
+                              "targetTitle": "Русиньскый"
+                            }
+                          }
+                        },
+                        "keyRepeat": false,
+                        "keycap": "АБВ"
+                      }
+                    },
+                    "id": "7BE4EDC5-4593-4A99-852D-628B4A8F5ACD",
+                    "weight": 1
+                  },
+                  {
+                    "visual": {
+                      "paneMenu": {}
+                    },
+                    "id": "2E309C8E-8747-4A8E-BC77-553F0BFA73AC",
+                    "weight": 1
+                  },
+                  {
+                    "weight": 3.5,
+                    "visual": {
+                      "key": {
+                        "keycap": "",
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": " "
+                            }
+                          },
+                          "2": {
+                            "panCursor": {}
+                          }
+                        },
+                        "keyRepeat": false
+                      }
+                    },
+                    "id": "0913BF78-593A-40A7-B055-36BA2ED1E504"
+                  },
+                  {
+                    "weight": 2,
+                    "id": "93895FFA-2BEE-448A-BC34-DF343F66CC8F",
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "\n"
+                            }
+                          }
+                        },
+                        "keyRepeat": false,
+                        "keycap": ""
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "id": "1FA88BC8-FFB0-4DC7-B4FD-966C4B755E87",
+            "weight": 1
+          }
+        ],
+        "direction": "vertical"
+      }
+    },
+    "id": "4ECA3B0D-5E3F-47A1-83D8-1D5FBDA7C4DD",
+    "heightMultiplier": 1,
+    "title": "Symbols"
+  },
+  {
+    "id": "031DF754-02FF-477D-A6F1-ECBCECEFCE74",
+    "root": {
+      "stack": {
+        "direction": "vertical",
+        "items": [
+          {
+            "id": "67BB0D0D-C3A1-4DEC-BE0D-3375DC663E5C",
+            "weight": 1,
+            "visual": {
+              "stack": {
+                "items": [
+                  {
+                    "weight": 1,
+                    "visual": {
+                      "stack": {
+                        "direction": "horizontal",
+                        "items": [
+                          {
+                            "visual": {
+                              "stack": {
+                                "items": [
+                                  {
+                                    "visual": {
+                                      "key": {
+                                        "actions": {
+                                          "0": {
+                                            "type": {
+                                              "signal": "1"
+                                            }
+                                          },
+                                          "1": {
+                                            "type": {
+                                              "signal": "["
+                                            }
+                                          }
+                                        },
+                                        "keyRepeat": false,
+                                        "keycap": ""
+                                      }
+                                    },
+                                    "id": "1557DC72-7187-488A-98FB-43603B91A651",
+                                    "weight": 1
+                                  },
+                                  {
+                                    "weight": 1,
+                                    "id": "83C4EA2F-44B4-4C7C-9D01-10B11F35F3B2",
+                                    "visual": {
+                                      "key": {
+                                        "keycap": "",
+                                        "keyRepeat": false,
+                                        "actions": {
+                                          "1": {
+                                            "type": {
+                                              "signal": "]"
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "2"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "visual": {
+                                      "key": {
+                                        "actions": {
+                                          "0": {
+                                            "type": {
+                                              "signal": "3"
+                                            }
+                                          },
+                                          "1": {
+                                            "type": {
+                                              "signal": "{"
+                                            }
+                                          }
+                                        },
+                                        "keyRepeat": false,
+                                        "keycap": ""
+                                      }
+                                    },
+                                    "weight": 1,
+                                    "id": "AE19296F-33D7-4087-B0C4-8A82210C7A07"
+                                  },
+                                  {
+                                    "weight": 1,
+                                    "visual": {
+                                      "key": {
+                                        "actions": {
+                                          "0": {
+                                            "type": {
+                                              "signal": "4"
+                                            }
+                                          },
+                                          "1": {
+                                            "type": {
+                                              "signal": "}"
+                                            }
+                                          }
+                                        },
+                                        "keycap": "",
+                                        "keyRepeat": false
+                                      }
+                                    },
+                                    "id": "9E0530B8-2F6B-4674-96F5-120FCA3B70D9"
+                                  },
+                                  {
+                                    "visual": {
+                                      "key": {
+                                        "keycap": "",
+                                        "actions": {
+                                          "3": {
+                                            "type": {
+                                              "signal": "№"
+                                            }
+                                          },
+                                          "1": {
+                                            "type": {
+                                              "signal": "#"
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "5"
+                                            }
+                                          }
+                                        },
+                                        "keyRepeat": false
+                                      }
+                                    },
+                                    "weight": 1,
+                                    "id": "95B231F6-9EDB-4FAA-937E-C743E103BE79"
+                                  },
+                                  {
+                                    "visual": {
+                                      "key": {
+                                        "keyRepeat": false,
+                                        "actions": {
+                                          "1": {
+                                            "type": {
+                                              "signal": "%"
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "6"
+                                            }
+                                          },
+                                          "3": {
+                                            "type": {
+                                              "signal": "‰"
+                                            }
+                                          }
+                                        },
+                                        "keycap": ""
+                                      }
+                                    },
+                                    "weight": 1,
+                                    "id": "E4C6468E-8118-4807-9CAE-A79B8D437E49"
+                                  },
+                                  {
+                                    "visual": {
+                                      "key": {
+                                        "keyRepeat": false,
+                                        "actions": {
+                                          "0": {
+                                            "type": {
+                                              "signal": "7"
+                                            }
+                                          },
+                                          "1": {
+                                            "type": {
+                                              "signal": "^"
+                                            }
+                                          }
+                                        },
+                                        "keycap": ""
+                                      }
+                                    },
+                                    "id": "63E93467-C2BE-43AF-8491-0C7FE208B40E",
+                                    "weight": 1
+                                  },
+                                  {
+                                    "visual": {
+                                      "key": {
+                                        "keycap": "",
+                                        "actions": {
+                                          "1": {
+                                            "type": {
+                                              "signal": "*"
+                                            }
+                                          },
+                                          "3": {
+                                            "type": {
+                                              "signal": "×"
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "8"
+                                            }
+                                          }
+                                        },
+                                        "keyRepeat": false
+                                      }
+                                    },
+                                    "id": "FF86E348-BBBF-4E52-A90F-07409E37EE4F",
+                                    "weight": 1
+                                  },
+                                  {
+                                    "weight": 1,
+                                    "id": "B568846E-3D5C-4B4E-BA80-85C334A13266",
+                                    "visual": {
+                                      "key": {
+                                        "actions": {
+                                          "1": {
+                                            "type": {
+                                              "signal": "+"
+                                            }
+                                          },
+                                          "3": {
+                                            "type": {
+                                              "signal": "±"
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "9"
+                                            }
+                                          }
+                                        },
+                                        "keyRepeat": false,
+                                        "keycap": ""
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "id": "DF33E4CB-53E9-445F-B23E-AC32207DBB2A",
+                                    "visual": {
+                                      "key": {
+                                        "keyRepeat": false,
+                                        "keycap": "",
+                                        "actions": {
+                                          "1": {
+                                            "type": {
+                                              "signal": "="
+                                            }
+                                          },
+                                          "2": {
+                                            "type": {
+                                              "signal": "°"
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "0"
+                                            }
+                                          },
+                                          "3": {
+                                            "type": {
+                                              "signal": "≠"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "weight": 1
+                                  }
+                                ],
+                                "direction": "horizontal"
+                              }
+                            },
+                            "weight": 10,
+                            "id": "4DFD1C04-49CF-4A9E-9C89-C9C63FB915CD"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "70189052-18A0-4CC6-AE76-AD0AEAE96F83"
+                  },
+                  {
+                    "visual": {
+                      "stack": {
+                        "items": [
+                          {
+                            "weight": 9,
+                            "visual": {
+                              "stack": {
+                                "direction": "horizontal",
+                                "items": [
+                                  {
+                                    "weight": 1,
+                                    "visual": {
+                                      "key": {
+                                        "keycap": "",
+                                        "keyRepeat": false,
+                                        "actions": {
+                                          "0": {
+                                            "type": {
+                                              "signal": "-"
+                                            }
+                                          },
+                                          "1": {
+                                            "type": {
+                                              "signal": "_"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "id": "90D6970A-702D-4E07-A48F-5AAFFA293D0A"
+                                  },
+                                  {
+                                    "weight": 1,
+                                    "visual": {
+                                      "key": {
+                                        "keyRepeat": false,
+                                        "keycap": "",
+                                        "actions": {
+                                          "0": {
+                                            "type": {
+                                              "signal": "–"
+                                            }
+                                          },
+                                          "1": {
+                                            "type": {
+                                              "signal": "\\"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "id": "1D782501-D914-4EAD-BAA0-995E3D7EFF81"
+                                  },
+                                  {
+                                    "id": "6DA2D20C-018C-421E-BE7F-F7CA1881C68B",
+                                    "weight": 1,
+                                    "visual": {
+                                      "key": {
+                                        "keyRepeat": false,
+                                        "actions": {
+                                          "1": {
+                                            "type": {
+                                              "signal": "|"
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "—"
+                                            }
+                                          }
+                                        },
+                                        "keycap": ""
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "visual": {
+                                      "key": {
+                                        "keycap": "",
+                                        "keyRepeat": false,
+                                        "actions": {
+                                          "1": {
+                                            "type": {
+                                              "signal": "~"
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "ʼ"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "id": "B7E98879-8BBA-4FB1-8222-D1E12F5D0868",
+                                    "weight": 1
+                                  },
+                                  {
+                                    "weight": 1,
+                                    "id": "F052CFDB-8A3E-4F32-886C-798E7C9C4494",
+                                    "visual": {
+                                      "key": {
+                                        "keyRepeat": false,
+                                        "keycap": "",
+                                        "actions": {
+                                          "1": {
+                                            "type": {
+                                              "signal": "<"
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "«"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "weight": 1,
+                                    "id": "754DF6A6-A59F-4AB1-B935-6CC7DB801B59",
+                                    "visual": {
+                                      "key": {
+                                        "actions": {
+                                          "1": {
+                                            "type": {
+                                              "signal": ">"
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "»"
+                                            }
+                                          }
+                                        },
+                                        "keycap": "",
+                                        "keyRepeat": false
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "weight": 1,
+                                    "id": "553AB833-0091-4619-B788-A15B92AB3D88",
+                                    "visual": {
+                                      "key": {
+                                        "keycap": "",
+                                        "keyRepeat": false,
+                                        "actions": {
+                                          "0": {
+                                            "type": {
+                                              "signal": "„"
+                                            }
+                                          },
+                                          "1": {
+                                            "type": {
+                                              "signal": "€"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "visual": {
+                                      "key": {
+                                        "keyRepeat": false,
+                                        "actions": {
+                                          "1": {
+                                            "type": {
+                                              "signal": "₴"
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "“"
+                                            }
+                                          }
+                                        },
+                                        "keycap": ""
+                                      }
+                                    },
+                                    "id": "E5DE3C18-D9C3-41A6-A804-AF03CCFEB394",
+                                    "weight": 1
+                                  },
+                                  {
+                                    "weight": 1,
+                                    "id": "213D26E2-D98F-492E-827B-717F6DB4BC58",
+                                    "visual": {
+                                      "key": {
+                                        "actions": {
+                                          "2": {
+                                            "type": {
+                                              "signal": "„"
+                                            }
+                                          },
+                                          "3": {
+                                            "type": {
+                                              "signal": "«"
+                                            }
+                                          },
+                                          "1": {
+                                            "type": {
+                                              "signal": "¥"
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "”"
+                                            }
+                                          }
+                                        },
+                                        "keycap": "",
+                                        "keyRepeat": false
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "visual": {
+                                      "key": {
+                                        "keycap": "",
+                                        "actions": {
+                                          "0": {
+                                            "type": {
+                                              "signal": "\""
+                                            }
+                                          },
+                                          "1": {
+                                            "type": {
+                                              "signal": "•"
+                                            }
+                                          },
+                                          "3": {
+                                            "type": {
+                                              "signal": ""
+                                            }
+                                          },
+                                          "2": {
+                                            "type": {
+                                              "signal": "”"
+                                            }
+                                          }
+                                        },
+                                        "keyRepeat": false
+                                      }
+                                    },
+                                    "id": "CF714906-F361-46B2-9B42-1E57F8EC3E24",
+                                    "weight": 1
+                                  }
+                                ]
+                              }
+                            },
+                            "id": "516706B9-7595-4486-A433-E5E00D516564"
+                          }
+                        ],
+                        "direction": "horizontal"
+                      }
+                    },
+                    "id": "7A46603C-64B0-4FF2-B7EB-AB2C91F5F37F",
+                    "weight": 1
+                  },
+                  {
+                    "visual": {
+                      "stack": {
+                        "direction": "horizontal",
+                        "items": [
+                          {
+                            "weight": 1,
+                            "id": "3F533174-AC17-418D-8F61-9BA10D2E4BC5",
+                            "visual": {
+                              "capsLock": {}
+                            }
+                          },
+                          {
+                            "id": "01F91E7C-8F8F-4BDA-A4F5-A3592A5865CA",
+                            "visual": {
+                              "padding": {}
+                            },
+                            "weight": 0.4
+                          },
+                          {
+                            "weight": 5,
+                            "visual": {
+                              "stack": {
+                                "direction": "horizontal",
+                                "items": [
+                                  {
+                                    "weight": 1,
+                                    "visual": {
+                                      "key": {
+                                        "keyRepeat": false,
+                                        "keycap": "",
+                                        "actions": {
+                                          "2": {
+                                            "type": {
+                                              "signal": "…"
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "`"
+                                            }
+                                          },
+                                          "1": {
+                                            "type": {
+                                              "signal": "."
+                                            }
+                                          },
+                                          "3": {
+                                            "type": {
+                                              "signal": "…"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "id": "5DB51444-9D84-4B1D-9176-4992D665AF11"
+                                  },
+                                  {
+                                    "weight": 1,
+                                    "visual": {
+                                      "key": {
+                                        "actions": {
+                                          "1": {
+                                            "type": {
+                                              "signal": ","
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "‚"
+                                            }
+                                          }
+                                        },
+                                        "keycap": "",
+                                        "keyRepeat": false
+                                      }
+                                    },
+                                    "id": "8D592D5D-D31D-4A36-8969-F972130C8148"
+                                  },
+                                  {
+                                    "weight": 1,
+                                    "id": "198A669F-B006-465A-BF39-86315E9CF037",
+                                    "visual": {
+                                      "key": {
+                                        "keyRepeat": false,
+                                        "keycap": "",
+                                        "actions": {
+                                          "3": {
+                                            "type": {
+                                              "signal": "¿"
+                                            }
+                                          },
+                                          "2": {
+                                            "type": {
+                                              "signal": "¿"
+                                            }
+                                          },
+                                          "1": {
+                                            "type": {
+                                              "signal": "?"
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "‘"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "weight": 1,
+                                    "id": "A6178D86-590C-4590-820C-FF9676200470",
+                                    "visual": {
+                                      "key": {
+                                        "keycap": "",
+                                        "keyRepeat": false,
+                                        "actions": {
+                                          "0": {
+                                            "type": {
+                                              "signal": "’"
+                                            }
+                                          },
+                                          "2": {
+                                            "type": {
+                                              "signal": "¡"
+                                            }
+                                          },
+                                          "3": {
+                                            "type": {
+                                              "signal": "¡"
+                                            }
+                                          },
+                                          "1": {
+                                            "type": {
+                                              "signal": "!"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "visual": {
+                                      "key": {
+                                        "keycap": "",
+                                        "actions": {
+                                          "3": {
+                                            "type": {
+                                              "signal": "‘"
+                                            }
+                                          },
+                                          "1": {
+                                            "type": {
+                                              "signal": "'"
+                                            }
+                                          },
+                                          "2": {
+                                            "type": {
+                                              "signal": "’"
+                                            }
+                                          },
+                                          "0": {
+                                            "type": {
+                                              "signal": "'"
+                                            }
+                                          }
+                                        },
+                                        "keyRepeat": false
+                                      }
+                                    },
+                                    "id": "95393FF1-44C7-40E2-9382-68FD1F61F93F",
+                                    "weight": 1
+                                  }
+                                ]
+                              }
+                            },
+                            "id": "F16678BB-ED9E-4C45-9016-883181C6DF8B"
+                          },
+                          {
+                            "weight": 0.4,
+                            "visual": {
+                              "padding": {}
+                            },
+                            "id": "69AF751A-45DC-46AE-AEBB-797C5458E410"
+                          },
+                          {
+                            "visual": {
+                              "key": {
+                                "keyRepeat": true,
+                                "keycap": "",
+                                "actions": {
+                                  "0": {
+                                    "delete": {
+                                      "offset": -1
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "weight": 1,
+                            "id": "D78BD8A0-887E-4CE3-A8D9-3AE287A89861"
+                          }
+                        ]
+                      }
+                    },
+                    "weight": 1,
+                    "id": "B4C93188-AE1D-4B85-BBBB-A49759ABC25D"
+                  },
+                  {
+                    "visual": {
+                      "stack": {
+                        "direction": "horizontal",
+                        "items": [
+                          {
+                            "weight": 1,
+                            "id": "7BE4EDC5-4593-4A99-852D-628B4A8F5ACD",
+                            "visual": {
+                              "key": {
+                                "actions": {
+                                  "0": {
+                                    "paneLink": {
+                                      "targetTitle": "Русиньскый"
+                                    }
+                                  }
+                                },
+                                "keycap": "АБВ",
+                                "keyRepeat": false
+                              }
+                            }
+                          },
+                          {
+                            "visual": {
+                              "paneMenu": {}
+                            },
+                            "weight": 1,
+                            "id": "2E309C8E-8747-4A8E-BC77-553F0BFA73AC"
+                          },
+                          {
+                            "weight": 3.5,
+                            "visual": {
+                              "key": {
+                                "keyRepeat": false,
+                                "keycap": "",
+                                "actions": {
+                                  "2": {
+                                    "panCursor": {}
+                                  },
+                                  "0": {
+                                    "type": {
+                                      "signal": " "
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "id": "0913BF78-593A-40A7-B055-36BA2ED1E504"
+                          },
+                          {
+                            "weight": 2,
+                            "visual": {
+                              "key": {
+                                "keycap": "",
+                                "actions": {
+                                  "0": {
+                                    "type": {
+                                      "signal": "\n"
+                                    }
+                                  }
+                                },
+                                "keyRepeat": false
+                              }
+                            },
+                            "id": "93895FFA-2BEE-448A-BC34-DF343F66CC8F"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1FA88BC8-FFB0-4DC7-B4FD-966C4B755E87",
+                    "weight": 1
+                  }
+                ],
+                "direction": "vertical"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "heightMultiplier": 1,
+    "title": "Additional Punctuation"
+  },
+  {
+    "root": {
+      "stack": {
+        "direction": "vertical",
+        "items": [
+          {
+            "weight": 1,
+            "visual": {
+              "textStack": {
+                "shiftCharacters": "¹²³⁴⁵⁶⁷⁸⁹⁰⁻⁼⁺⁽⁾",
+                "characters": "₁₂₃₄₅₆₇₈₉₀₋₌₊₍₎",
+                "keyRepeat": false
+              }
+            },
+            "id": "0751BF06-71FB-445F-B970-9E2F3C4637BD"
+          },
+          {
+            "id": "9F365367-F8FD-4929-BEC5-4D3FA9A51DAF",
+            "visual": {
+              "stack": {
+                "direction": "horizontal",
+                "items": [
+                  {
+                    "id": "C8CCDFA3-E1FD-4EBD-BA23-5E5079F5BE16",
+                    "weight": 1,
+                    "visual": {
+                      "key": {
+                        "keyRepeat": false,
+                        "keycap": "",
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": ""
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "weight": 1,
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "↑"
+                            }
+                          }
+                        },
+                        "keyRepeat": false,
+                        "keycap": ""
+                      }
+                    },
+                    "id": "1FB968DC-1DAB-44F9-B6C1-69B4165C39E2"
+                  },
+                  {
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "´"
+                            }
+                          }
+                        },
+                        "keyRepeat": false,
+                        "keycap": ""
+                      }
+                    },
+                    "id": "16F433E3-5650-454D-B457-3CE85613127F",
+                    "weight": 1
+                  },
+                  {
+                    "visual": {
+                      "key": {
+                        "keyRepeat": false,
+                        "actions": {
+                          "1": {
+                            "type": {
+                              "signal": "×"
+                            }
+                          },
+                          "0": {
+                            "type": {
+                              "signal": "+"
+                            }
+                          }
+                        },
+                        "keycap": ""
+                      }
+                    },
+                    "id": "FC641327-D75F-439E-8DAA-E51001998105",
+                    "weight": 1
+                  },
+                  {
+                    "id": "3562A871-F65A-40EA-BA10-BB6435994505",
+                    "weight": 1,
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "1": {
+                            "type": {
+                              "signal": "∞"
+                            }
+                          },
+                          "0": {
+                            "type": {
+                              "signal": "±"
+                            }
+                          }
+                        },
+                        "keyRepeat": false,
+                        "keycap": ""
+                      }
+                    }
+                  },
+                  {
+                    "id": "C41BB2A6-DA77-41A2-B780-E60F4BF48324",
+                    "weight": 1,
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "•"
+                            }
+                          },
+                          "1": {
+                            "type": {
+                              "signal": "°"
+                            }
+                          }
+                        },
+                        "keyRepeat": false,
+                        "keycap": ""
+                      }
+                    }
+                  },
+                  {
+                    "id": "5E32FE64-8966-43EA-8D66-FD1B0E2456BE",
+                    "weight": 1,
+                    "visual": {
+                      "key": {
+                        "keycap": "",
+                        "actions": {
+                          "1": {
+                            "type": {
+                              "signal": "∵"
+                            }
+                          },
+                          "0": {
+                            "type": {
+                              "signal": "∴"
+                            }
+                          }
+                        },
+                        "keyRepeat": false
+                      }
+                    }
+                  },
+                  {
+                    "weight": 1,
+                    "id": "7A5F72A2-7972-476C-A15A-8E6253872901",
+                    "visual": {
+                      "key": {
+                        "keyRepeat": false,
+                        "keycap": "",
+                        "actions": {
+                          "1": {
+                            "type": {
+                              "signal": "∩"
+                            }
+                          },
+                          "0": {
+                            "type": {
+                              "signal": "∪"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "066EA915-2C64-4BE9-A52F-CCEF7496F4BE",
+                    "weight": 2,
+                    "visual": {
+                      "key": {
+                        "keyRepeat": false,
+                        "keycap": "",
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "＼(⌒▽⌒)"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "weight": 1
+          },
+          {
+            "id": "DC094B26-FFDD-49E9-B556-92F205B0D14D",
+            "visual": {
+              "stack": {
+                "direction": "horizontal",
+                "items": [
+                  {
+                    "weight": 1,
+                    "id": "A7763B9A-60AD-4575-BA56-484624E5C5AB",
+                    "visual": {
+                      "key": {
+                        "keycap": "",
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "←"
+                            }
+                          }
+                        },
+                        "keyRepeat": false
+                      }
+                    }
+                  },
+                  {
+                    "weight": 1,
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "↓"
+                            }
+                          }
+                        },
+                        "keycap": "",
+                        "keyRepeat": false
+                      }
+                    },
+                    "id": "299C9E06-B28A-48A0-BDA1-143F8076EBD6"
+                  },
+                  {
+                    "weight": 1,
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "→"
+                            }
+                          }
+                        },
+                        "keycap": "",
+                        "keyRepeat": false
+                      }
+                    },
+                    "id": "E065436B-655E-484D-A265-0A7EA8DB5557"
+                  },
+                  {
+                    "id": "D2A06C4E-4EB3-4E34-8485-A56E1550A01A",
+                    "weight": 1,
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "1": {
+                            "type": {
+                              "signal": "÷"
+                            }
+                          },
+                          "0": {
+                            "type": {
+                              "signal": "-"
+                            }
+                          }
+                        },
+                        "keyRepeat": false,
+                        "keycap": ""
+                      }
+                    }
+                  },
+                  {
+                    "id": "50E00DE9-7820-496B-9779-E51312A20956",
+                    "weight": 1,
+                    "visual": {
+                      "key": {
+                        "keycap": "",
+                        "actions": {
+                          "1": {
+                            "type": {
+                              "signal": "≠"
+                            }
+                          },
+                          "0": {
+                            "type": {
+                              "signal": "="
+                            }
+                          }
+                        },
+                        "keyRepeat": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "7F1ED3B4-32D2-425C-8A55-905AFCC3A8CC",
+                    "visual": {
+                      "key": {
+                        "keyRepeat": false,
+                        "keycap": "",
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "…"
+                            }
+                          },
+                          "1": {
+                            "type": {
+                              "signal": "·"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "visual": {
+                      "key": {
+                        "keyRepeat": false,
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "∈"
+                            }
+                          },
+                          "1": {
+                            "type": {
+                              "signal": "∉"
+                            }
+                          }
+                        },
+                        "keycap": ""
+                      }
+                    },
+                    "weight": 1,
+                    "id": "FB26211B-01AB-4CE0-A5BE-3AE55DA9ECE5"
+                  },
+                  {
+                    "id": "E70A1F66-C404-4C3F-96D6-CC34912646E5",
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "⊂"
+                            }
+                          },
+                          "1": {
+                            "type": {
+                              "signal": "⊆"
+                            }
+                          }
+                        },
+                        "keycap": "",
+                        "keyRepeat": false
+                      }
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "visual": {
+                      "key": {
+                        "keyRepeat": false,
+                        "keycap": "",
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "🥳"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "weight": 1,
+                    "id": "8112D8D0-76F6-4F80-8DA0-74CE97E2B409"
+                  }
+                ]
+              }
+            },
+            "weight": 1
+          },
+          {
+            "weight": 1,
+            "visual": {
+              "stack": {
+                "direction": "horizontal",
+                "items": [
+                  {
+                    "id": "A092C6D1-464C-4023-AFB0-1B8985366F8B",
+                    "visual": {
+                      "shift": {}
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "✓"
+                            }
+                          }
+                        },
+                        "keycap": "",
+                        "keyRepeat": false
+                      }
+                    },
+                    "id": "ADBB5EA8-72E5-4BFF-88D1-EB0889ADD326",
+                    "weight": 1
+                  },
+                  {
+                    "id": "3D55E0D0-DFBE-48B3-A7A2-F85117AE7671",
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "✗"
+                            }
+                          }
+                        },
+                        "keyRepeat": false,
+                        "keycap": ""
+                      }
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "≡"
+                            }
+                          },
+                          "1": {
+                            "type": {
+                              "signal": "≢"
+                            }
+                          }
+                        },
+                        "keycap": "",
+                        "keyRepeat": false
+                      }
+                    },
+                    "id": "BE4C76D9-5BD4-43A6-ACB2-7FFB3B5C14A7",
+                    "weight": 1
+                  },
+                  {
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "<"
+                            }
+                          },
+                          "1": {
+                            "type": {
+                              "signal": "≤"
+                            }
+                          }
+                        },
+                        "keyRepeat": false,
+                        "keycap": ""
+                      }
+                    },
+                    "id": "ACB2EC94-A96B-4440-B124-E53228B6427F",
+                    "weight": 1
+                  },
+                  {
+                    "weight": 1,
+                    "visual": {
+                      "key": {
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": ">"
+                            }
+                          },
+                          "1": {
+                            "type": {
+                              "signal": "≥"
+                            }
+                          }
+                        },
+                        "keycap": "",
+                        "keyRepeat": false
+                      }
+                    },
+                    "id": "8C7F51E1-6A7A-4275-A8CC-96592C15AC25"
+                  },
+                  {
+                    "weight": 1,
+                    "id": "35513282-6AB7-4A46-BC0C-2F8BCA43DF48",
+                    "visual": {
+                      "key": {
+                        "keycap": "",
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "¬"
+                            }
+                          },
+                          "1": {
+                            "type": {
+                              "signal": "π"
+                            }
+                          }
+                        },
+                        "keyRepeat": false
+                      }
+                    }
+                  },
+                  {
+                    "visual": {
+                      "key": {
+                        "keyRepeat": false,
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "∧"
+                            }
+                          },
+                          "1": {
+                            "type": {
+                              "signal": "∨"
+                            }
+                          }
+                        },
+                        "keycap": ""
+                      }
+                    },
+                    "id": "3C83B4DF-8151-4EC0-BD8E-9DAD283F7A7F",
+                    "weight": 1
+                  },
+                  {
+                    "weight": 1,
+                    "visual": {
+                      "key": {
+                        "keycap": "",
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "‽"
+                            }
+                          }
+                        },
+                        "keyRepeat": false
+                      }
+                    },
+                    "id": "08516E4C-CD28-4536-9B8C-6F39869DD6DD"
+                  },
+                  {
+                    "weight": 1,
+                    "visual": {
+                      "key": {
+                        "keycap": "",
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "⸮"
+                            }
+                          }
+                        },
+                        "keyRepeat": false
+                      }
+                    },
+                    "id": "14FF4366-2604-4B58-B72A-7EA3BB80D00B"
+                  },
+                  {
+                    "weight": 1,
+                    "visual": {
+                      "key": {
+                        "keycap": "",
+                        "actions": {
+                          "0": {
+                            "delete": {
+                              "offset": -1
+                            }
+                          }
+                        },
+                        "keyRepeat": true
+                      }
+                    },
+                    "id": "5509F1F6-0C69-47A1-AF98-0964D414F6D9"
+                  }
+                ]
+              }
+            },
+            "id": "0ADEBD1D-0E3F-4D9E-AAAC-33C773696701"
+          },
+          {
+            "weight": 1,
+            "id": "6BBD6E81-2E19-4DE8-B0EA-FAC44986B0B4",
+            "visual": {
+              "stack": {
+                "direction": "horizontal",
+                "items": [
+                  {
+                    "visual": {
+                      "key": {
+                        "keyRepeat": false,
+                        "keycap": "АБВ",
+                        "actions": {
+                          "0": {
+                            "paneLink": {
+                              "targetTitle": "Русиньскый"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "id": "0909D4F5-2838-4CEF-B102-F53592D36DC6",
+                    "weight": 1
+                  },
+                  {
+                    "visual": {
+                      "paneMenu": {}
+                    },
+                    "id": "D796021C-BACE-4C92-AE25-F06F47B6C45B",
+                    "weight": 1
+                  },
+                  {
+                    "weight": 3.5,
+                    "id": "31077DE8-90DB-4890-8367-5EF562674A14",
+                    "visual": {
+                      "key": {
+                        "keycap": "",
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": " "
+                            }
+                          },
+                          "2": {
+                            "panCursor": {}
+                          }
+                        },
+                        "keyRepeat": false
+                      }
+                    }
+                  },
+                  {
+                    "weight": 2,
+                    "id": "B443578B-2FD5-4B65-86D6-042F745E5705",
+                    "visual": {
+                      "key": {
+                        "keycap": "",
+                        "actions": {
+                          "0": {
+                            "type": {
+                              "signal": "\n"
+                            }
+                          }
+                        },
+                        "keyRepeat": false
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    },
+    "title": "Extended Symbols",
+    "id": "523CC88D-1C3E-406F-855B-9BE0724A01B9",
+    "heightMultiplier": 1
+  }
+]
